@@ -3,7 +3,7 @@
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [Unreal Engine 4 VR Nanodegree](https://www.udacity.com)
 
 ## Necessary Software
-- [Epic Games Launcher, Unreal Engine 4.14 or 4.15](https://www.unrealengine.com/en-US/blog)
+- [Epic Games Launcher, Unreal Engine 4.15](https://www.unrealengine.com/en-US/blog)
 - [SteamVR](http://store.steampowered.com/steamvr)
 
 <img src="https://d17h27t6h515a5.cloudfront.net/topher/2017/November/5a0ef225_epiclauncher/epiclauncher.png" width="50%"/>
